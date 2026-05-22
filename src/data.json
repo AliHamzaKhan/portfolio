@@ -108,7 +108,7 @@
       "Offline Architecture"
     ],
     "description": "An end-to-end logistics and delivery management platform handling 10,000+ daily deliveries across multiple cities with real-time tracking, route optimization, offline-first driver support, Firebase backend, and subscription-based payment management.",
-    "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuBq7d9c_4xJtpGBWUuUQuYJ1elddvkbugxq4yBemskhq-WbdtvuNYLjv-ViiPeEo9pWl-B5TQZr23Lc8yJuupvQO3Q-aLasJAcKKa4AffGnMqar1B7lDtYSolM56VK_-WuNNyb0K_EYVc2VriCrCD8kpzgxZw1mxcZtFDq5Dv8zHh2yke_5fF4bAzwjFWbGwq2_dG50sDB-ju1hVz120yjDXSTDo-hnw9mFqug4KcZN7EnX4vKFitjVkzUKheul6p7cf1vbuUYKwJ8",
+    "image": "https://cdn.prod.website-files.com/637d6390b70424b49c14ff1e/67635e132eda0e9742410bb3_654180f8bf693f6a24448d2d_3-best-route-planner-app-android-circuit.webp",
     "app_url": "https://play.google.com/store/apps/details?id=com.ahk.route_planner"
   },
   {
@@ -123,7 +123,7 @@
       "Healthcare"
     ],
     "description": "A health monitoring application featuring AI-powered health recommendations, workout tracking, AI chatbot support, encrypted health data management, HIPAA-compliant authentication, and real-time synchronization across devices.",
-    "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuB5I0yTTzV1PUsXiPqBnIZwNC-WmTFg8J-1YkAD6S4Wve5U8ABb4XlF6Ldx__30Wddx7ON8wApFJrAU19JfPnXNk9cXHBHBpyL2Cqa0hxfnzSYoHUG1pAASWotElsBYkHMeiAcv93WpHi43wZz39hNMpGJiVtr6Yf8XuXH92wvegDYZNVC3SToh0yUWFAlLOwONS_pI9nw7U6VambYFlLuaDvs06p30u6lRDK4wXTNgLLGNS8qwE6wOLOV6KZlmuKJdIsU7Q6wtrbM",
+    "image": "https://images.unsplash.com/photo-1576091160550-2173dba999ef?q=80&w=1200&auto=format&fit=crop",
     "app_url": ""
   },
   {
@@ -138,23 +138,25 @@
       "Real-time Tracking"
     ],
     "description": "An intelligent rider route optimization system reducing delivery times by 25% with Google Maps API optimization, real-time location tracking, Firebase Cloud Messaging, and scalable REST API integrations.",
-    "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuC-MZ3Yla0LVueJkSv1ZL7WSOubprHBplTxAI6CQBkj0D9-ei_B1HfwEKC8IT9AN-whxR0zV48T5-rutZi_hs0sdFmh6ZFu2SlPe_4JCT5xodQnHFxdiGvMoRdA4KL0wHbrRQSxw6d5skDxYeYtvCvpbS9MdeUIMUn4KWaGE2zvvvp4Y4UueqIuW8VhEijHmbBap1C7wQXMeoWmQLUXdv2Ztc-DlALss9q2x5HXLZ7CM2VeoNQRb6grFNF_hOcXrBASZTWg0gnzIaI",
+    "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1200&auto=format&fit=crop",
     "app_url": ""
   },
   {
     "id": "pigybak",
-    "title": "PigyBak Food Delivery",
+    "title": "PigyBak",
     "category": "Mobile",
     "tags": [
       "Flutter",
       "Stripe",
-      "Food Delivery",
       "Firebase",
-      "Authentication"
+      "Authentication",
+      "Mapbox"
     ],
-    "description": "A food delivery platform with Stripe payment integration, restaurant management, secure user authentication, order management, and real-time delivery workflows.",
-    "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuBBiW_wjcJvSAxQvSd48rZZzPkNk-8m7xepYnocVo5Us_zUB5peWGJZ-pVYNv8H0Ty-CEVD4K6-Zb7_gRjNJovfPJyHcSY4dZfwXBl0TF3a_oSplOot1TwTejFV8ZNb22HoRn4ea0N5_OVz4KWhBD6Y3UuXXf0E74RfcYBKxriTH_DE1_-5llQ1XWCo0M91ZJ6wgvnI_XRQge7AM9rHyELwHS8Rt8lSSSWMcINXiJ3tzuhfvJElpIty9s5WJrLxyZ_vsuSFZu1q5I4",
-    "app_url": "https://play.google.com/store/apps/details?id=com.pigybak.app"
+"description": "A service and job marketplace application where users can find nearby contractors, skilled professionals, and local services with secure payment integration, real-time job workflows, user authentication, and service management features.", 
+
+    "app_url": "https://play.google.com/store/apps/details?id=com.pigybak.app",
+    "image": "https://www.pigybak.com/wp-content/uploads/2025/05/App-Sumo-Promo-533x300.png"
+    
   },
   {
     "id": "crescent-tracking",
@@ -168,7 +170,7 @@
       "Realtime"
     ],
     "description": "A real-time GPS tracking platform with live vehicle tracking, geofencing, location history visualization, and advanced map-based analytics.",
-    "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuAAluzMfQEdVqCKJIPAzXMRX1JjIKu59cEqvf1OAjEJcyE6Z-g6nqNgCniKDGH5eNkVSa0d1PcVAhmuKzM6tsnhB01qNdMG5CujWYLkVwkd7QiJ7ZMJY3PYh8x7dcXgDwhDS9TurITSmXnihD034AAMn9O3jDhLdceN4kfEaOWtkKyMkpiaWdLbmiFWPf5P7YMjL48RhfA9oWw5CYs2ESQ87fu4b0gI0Wysw6UtYk6r1FEAToUj8FDyTANsNBCBCzV2V3b558y4mAk",
+    "image": "https://www.crescenttrack.com/_next/image?url=%2Fimages%2Ffleet.jpeg&w=3840&q=75",
     "app_url": "https://play.google.com/store/apps/details?id=com.cresent.app&hl=en"
   },
   {
@@ -183,7 +185,7 @@
       "Product Catalog"
     ],
     "description": "An e-commerce platform built with Flutter and Firebase featuring secure checkout, product catalog management, responsive UI, and scalable backend services.",
-    "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuDamVJZkUEVQHZUTdsePDzdILQ57cwTUjWunP2GrnjBXbyAOqVCJg3flxO2Af1YFSTviFkG_7SE1vgJMes4CBhbhqo34u_EY1RIvw_GbASDWntJjuGgJcrT4DVbZBeJlVlhvfwYtqRfm7YE0iFVeVArn5u-278REY5m6Ug1l5tKI4rLPr_LrPclCDEXPjOiQDJl4wUUscq-8gETV0IWzmWATLu0xd7FucrIyXS2gMPXlXgP8skNapAMPOKbuSD_81m9I6JEV8AMAqs",
+    "image": "https://pbs.twimg.com/media/HApiuHlbMAAOBLm.jpg",
     "app_url": ""
   },
   {
@@ -198,7 +200,7 @@
       "Visualization"
     ],
     "description": "An augmented reality food application enabling users to visualize menu items in real-world environments using camera integration and OpenGL rendering.",
-    "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuBq7d9c_4xJtpGBWUuUQuYJ1elddvkbugxq4yBemskhq-WbdtvuNYLjv-ViiPeEo9pWl-B5TQZr23Lc8yJuupvQO3Q-aLasJAcKKa4AffGnMqar1B7lDtYSolM56VK_-WuNNyb0K_EYVc2VriCrCD8kpzgxZw1mxcZtFDq5Dv8zHh2yke_5fF4bAzwjFWbGwq2_dG50sDB-ju1hVz120yjDXSTDo-hnw9mFqug4KcZN7EnX4vKFitjVkzUKheul6p7cf1vbuUYKwJ8",
+    "image": "https://www.expertappdevs.com/public/sitebucket/blog/augmented-reality-ar-food-menu-app-development.webp",
     "app_url": "https://play.google.com/store/apps/details?id=com.ahk.food_app"
   }
 ],
