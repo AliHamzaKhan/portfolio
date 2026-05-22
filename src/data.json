@@ -1,0 +1,219 @@
+{
+  "personal": {
+    "name": "Ali Hamza Khan",
+    "role": "Flutter Mobile App Developer",
+    "tagline": "Flutter Mobile App Developer based in Karachi, Pakistan. I specialize in building high-performance cross-platform applications for Android, iOS, and Flutter Web with modern UI/UX, scalable architecture, and seamless user experiences.",
+    "availableForNewProjects": true,
+    "email": "alihamza.khan05@gmail.com",
+    "phone": "+92 300 0000000",
+    "social": {
+      "github": "https://github.com/AliHamzaKhan",
+      "linkedin": "https://www.linkedin.com/in/ali-hamza-033313219"
+    },
+    "heroImage": "https://drive.google.com/thumbnail?id=1xGnnivx_ZLc-ZaB8iturVuLE2LI2hyhN&sz=w1000"
+  },
+  "expertise": [
+    {
+      "title": "Flutter App Development",
+      "description": "Building high-performance cross-platform mobile applications using Flutter for Android and iOS with clean architecture, responsive UI, and scalable codebases.",
+      "icon": "Smartphone"
+    },
+    {
+      "title": "Flutter Web Development",
+      "description": "Developing modern Flutter Web applications with responsive layouts, real-time integrations, and optimized performance for desktop and mobile browsers.",
+      "icon": "Globe"
+    },
+    {
+      "title": "Backend & API Integration",
+      "description": "Integrating REST APIs, Firebase, authentication systems, payment gateways, maps, and real-time databases to create production-ready digital products.",
+      "icon": "Server"
+    }
+  ],
+  "experience": [
+  {
+    "title": "Senior Flutter Developer",
+    "company": "Freelance & International Remote Clients",
+    "period": "2021 - Present",
+    "description": "Working as a freelance Flutter developer delivering scalable mobile and web applications for startups, agencies, and businesses worldwide. Built advanced solutions including healthcare systems, logistics platforms, AI-powered applications, real-time tracking systems, inventory management software, and delivery ecosystems. Specialized in high-performance Flutter architecture, Firebase backend systems, REST APIs, payment gateway integrations, Google Maps, and AI integrations.",
+    "skills": [
+      "Flutter",
+      "Firebase",
+      "GetX",
+      "REST APIs",
+      "Google Maps",
+      "AI Integration",
+      "Payment Gateways",
+      "Real-time Systems",
+      "Offline Architecture"
+    ]
+  },
+  {
+    "title": "Flutter Developer",
+    "company": "Reputable Software House",
+    "period": "2023 - Present",
+    "description": "Currently working in a reputable software house developing enterprise-grade mobile applications and scalable business solutions. Responsible for application architecture, API integrations, state management, optimization, production deployments, and implementing modern UI/UX experiences across Android and iOS platforms.",
+    "skills": [
+      "Flutter",
+      "Mobile App Architecture",
+      "Android",
+      "iOS",
+      "Firebase",
+      "API Integration",
+      "State Management",
+      "Performance Optimization",
+      "Clean Architecture"
+    ]
+  },
+  {
+    "title": "Independent Product Developer",
+    "company": "Self-Owned Products & Market Solutions",
+    "period": "2022 - Present",
+    "description": "Designed and launched personal applications and SaaS-based products targeting real-world market problems including delivery management, health systems, tracking platforms, and AI-powered business tools. Focused on building scalable digital products with modern technologies, monetization models, and user-centric experiences.",
+    "skills": [
+      "Product Development",
+      "SaaS",
+      "Flutter",
+      "Firebase",
+      "AI Systems",
+      "Business Automation",
+      "Startup MVP Development",
+      "Cloud Functions"
+    ]
+  }
+],
+  "education": [
+  {
+    "degree": "Android Application Development",
+    "school": "Sir Syed University",
+    "description": "Completed specialized training in Android application development, focusing on mobile app fundamentals, UI development, and application lifecycle management.",
+    "icon": "GraduationCap"
+  },
+  {
+    "degree": "Intermediate (Pre-Engineering)",
+    "school": "Karachi, Pakistan",
+    "description": "Studied core pre-engineering subjects with strong foundation in mathematics, physics, and analytical problem solving.",
+    "icon": "GraduationCap"
+  }
+],
+  "projects": [
+  {
+    "id": "sods",
+    "title": "Smart Optimizing Delivery System (SODS)",
+    "category": "Mobile",
+    "tags": [
+      "Flutter",
+      "Firebase",
+      "Google Maps",
+      "Payment Integration",
+      "Offline Architecture"
+    ],
+    "description": "An end-to-end logistics and delivery management platform handling 10,000+ daily deliveries across multiple cities with real-time tracking, route optimization, offline-first driver support, Firebase backend, and subscription-based payment management.",
+    "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuBq7d9c_4xJtpGBWUuUQuYJ1elddvkbugxq4yBemskhq-WbdtvuNYLjv-ViiPeEo9pWl-B5TQZr23Lc8yJuupvQO3Q-aLasJAcKKa4AffGnMqar1B7lDtYSolM56VK_-WuNNyb0K_EYVc2VriCrCD8kpzgxZw1mxcZtFDq5Dv8zHh2yke_5fF4bAzwjFWbGwq2_dG50sDB-ju1hVz120yjDXSTDo-hnw9mFqug4KcZN7EnX4vKFitjVkzUKheul6p7cf1vbuUYKwJ8",
+    "app_url": "https://play.google.com/store/apps/details?id=com.ahk.route_planner"
+  },
+  {
+    "id": "ai-health-app",
+    "title": "AI-Powered Health Application",
+    "category": "Mobile",
+    "tags": [
+      "Flutter",
+      "Firebase",
+      "OpenAI",
+      "Agentic AI",
+      "Healthcare"
+    ],
+    "description": "A health monitoring application featuring AI-powered health recommendations, workout tracking, AI chatbot support, encrypted health data management, HIPAA-compliant authentication, and real-time synchronization across devices.",
+    "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuB5I0yTTzV1PUsXiPqBnIZwNC-WmTFg8J-1YkAD6S4Wve5U8ABb4XlF6Ldx__30Wddx7ON8wApFJrAU19JfPnXNk9cXHBHBpyL2Cqa0hxfnzSYoHUG1pAASWotElsBYkHMeiAcv93WpHi43wZz39hNMpGJiVtr6Yf8XuXH92wvegDYZNVC3SToh0yUWFAlLOwONS_pI9nw7U6VambYFlLuaDvs06p30u6lRDK4wXTNgLLGNS8qwE6wOLOV6KZlmuKJdIsU7Q6wtrbM",
+    "app_url": ""
+  },
+  {
+    "id": "route-optimization",
+    "title": "Route Optimization System for Riders",
+    "category": "Mobile",
+    "tags": [
+      "Flutter",
+      "Google Maps API",
+      "Firebase",
+      "REST APIs",
+      "Real-time Tracking"
+    ],
+    "description": "An intelligent rider route optimization system reducing delivery times by 25% with Google Maps API optimization, real-time location tracking, Firebase Cloud Messaging, and scalable REST API integrations.",
+    "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuC-MZ3Yla0LVueJkSv1ZL7WSOubprHBplTxAI6CQBkj0D9-ei_B1HfwEKC8IT9AN-whxR0zV48T5-rutZi_hs0sdFmh6ZFu2SlPe_4JCT5xodQnHFxdiGvMoRdA4KL0wHbrRQSxw6d5skDxYeYtvCvpbS9MdeUIMUn4KWaGE2zvvvp4Y4UueqIuW8VhEijHmbBap1C7wQXMeoWmQLUXdv2Ztc-DlALss9q2x5HXLZ7CM2VeoNQRb6grFNF_hOcXrBASZTWg0gnzIaI",
+    "app_url": ""
+  },
+  {
+    "id": "pigybak",
+    "title": "PigyBak Food Delivery",
+    "category": "Mobile",
+    "tags": [
+      "Flutter",
+      "Stripe",
+      "Food Delivery",
+      "Firebase",
+      "Authentication"
+    ],
+    "description": "A food delivery platform with Stripe payment integration, restaurant management, secure user authentication, order management, and real-time delivery workflows.",
+    "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuBBiW_wjcJvSAxQvSd48rZZzPkNk-8m7xepYnocVo5Us_zUB5peWGJZ-pVYNv8H0Ty-CEVD4K6-Zb7_gRjNJovfPJyHcSY4dZfwXBl0TF3a_oSplOot1TwTejFV8ZNb22HoRn4ea0N5_OVz4KWhBD6Y3UuXXf0E74RfcYBKxriTH_DE1_-5llQ1XWCo0M91ZJ6wgvnI_XRQge7AM9rHyELwHS8Rt8lSSSWMcINXiJ3tzuhfvJElpIty9s5WJrLxyZ_vsuSFZu1q5I4",
+    "app_url": "https://play.google.com/store/apps/details?id=com.pigybak.app"
+  },
+  {
+    "id": "crescent-tracking",
+    "title": "Crescent Tracking",
+    "category": "Mobile",
+    "tags": [
+      "Flutter",
+      "GPS Tracking",
+      "Geofencing",
+      "Maps",
+      "Realtime"
+    ],
+    "description": "A real-time GPS tracking platform with live vehicle tracking, geofencing, location history visualization, and advanced map-based analytics.",
+    "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuAAluzMfQEdVqCKJIPAzXMRX1JjIKu59cEqvf1OAjEJcyE6Z-g6nqNgCniKDGH5eNkVSa0d1PcVAhmuKzM6tsnhB01qNdMG5CujWYLkVwkd7QiJ7ZMJY3PYh8x7dcXgDwhDS9TurITSmXnihD034AAMn9O3jDhLdceN4kfEaOWtkKyMkpiaWdLbmiFWPf5P7YMjL48RhfA9oWw5CYs2ESQ87fu4b0gI0Wysw6UtYk6r1FEAToUj8FDyTANsNBCBCzV2V3b558y4mAk",
+    "app_url": "https://play.google.com/store/apps/details?id=com.cresent.app&hl=en"
+  },
+  {
+    "id": "green-sukkur",
+    "title": "Green Sukkur",
+    "category": "Web",
+    "tags": [
+      "Flutter Web",
+      "E-commerce",
+      "Firebase",
+      "Checkout",
+      "Product Catalog"
+    ],
+    "description": "An e-commerce platform built with Flutter and Firebase featuring secure checkout, product catalog management, responsive UI, and scalable backend services.",
+    "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuDamVJZkUEVQHZUTdsePDzdILQ57cwTUjWunP2GrnjBXbyAOqVCJg3flxO2Af1YFSTviFkG_7SE1vgJMes4CBhbhqo34u_EY1RIvw_GbASDWntJjuGgJcrT4DVbZBeJlVlhvfwYtqRfm7YE0iFVeVArn5u-278REY5m6Ug1l5tKI4rLPr_LrPclCDEXPjOiQDJl4wUUscq-8gETV0IWzmWATLu0xd7FucrIyXS2gMPXlXgP8skNapAMPOKbuSD_81m9I6JEV8AMAqs",
+    "app_url": ""
+  },
+  {
+    "id": "ar-food-app",
+    "title": "Augmented Reality Food App",
+    "category": "Mobile",
+    "tags": [
+      "Flutter",
+      "AR",
+      "OpenGL",
+      "Camera",
+      "Visualization"
+    ],
+    "description": "An augmented reality food application enabling users to visualize menu items in real-world environments using camera integration and OpenGL rendering.",
+    "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuBq7d9c_4xJtpGBWUuUQuYJ1elddvkbugxq4yBemskhq-WbdtvuNYLjv-ViiPeEo9pWl-B5TQZr23Lc8yJuupvQO3Q-aLasJAcKKa4AffGnMqar1B7lDtYSolM56VK_-WuNNyb0K_EYVc2VriCrCD8kpzgxZw1mxcZtFDq5Dv8zHh2yke_5fF4bAzwjFWbGwq2_dG50sDB-ju1hVz120yjDXSTDo-hnw9mFqug4KcZN7EnX4vKFitjVkzUKheul6p7cf1vbuUYKwJ8",
+    "app_url": "https://play.google.com/store/apps/details?id=com.ahk.food_app"
+  }
+],
+  "testimonials": [
+    {
+      "quote": "\"Ali delivered an exceptional Flutter application with smooth performance on both Android and iOS. His understanding of scalable architecture and UI/UX is outstanding.\"",
+      "name": "Ahmed Raza",
+      "role": "Startup Founder",
+      "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuAAluzMfQEdVqCKJIPAzXMRX1JjIKu59cEqvf1OAjEJcyE6Z-g6nqNgCniKDGH5eNkVSa0d1PcVAhmuKzM6tsnhB01qNdMG5CujWYLkVwkd7QiJ7ZMJY3PYh8x7dcXgDwhDS9TurITSmXnihD034AAMn9O3jDhLdceN4kfEaOWtkKyMkpiaWdLbmiFWPf5P7YMjL48RhfA9oWw5CYs2ESQ87fu4b0gI0Wysw6UtYk6r1FEAToUj8FDyTANsNBCBCzV2V3b558y4mAk"
+    },
+    {
+      "quote": "\"Working with Ali was seamless. He built our Flutter Web and mobile ecosystem with clean code, real-time integrations, and excellent communication throughout the project.\"",
+      "name": "Sarah Khan",
+      "role": "Product Manager",
+      "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuDamVJZkUEVQHZUTdsePDzdILQ57cwTUjWunP2GrnjBXbyAOqVCJg3flxO2Af1YFSTviFkG_7SE1vgJMes4CBhbhqo34u_EY1RIvw_GbASDWntJjuGgJcrT4DVbZBeJlVlhvfwYtqRfm7YE0iFVeVArn5u-278REY5m6Ug1l5tKI4rLPr_LrPclCDEXPjOiQDJl4wUUscq-8gETV0IWzmWATLu0xd7FucrIyXS2gMPXlXgP8skNapAMPOKbuSD_81m9I6JEV8AMAqs"
+    }
+  ]
+}
